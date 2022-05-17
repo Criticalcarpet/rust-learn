@@ -1,3 +1,5 @@
+// File to delete all the .git directories inside tutorial files
+
 const fs = require('fs')    
 
 fs.readdirSync(__dirname).forEach(function(file) {
