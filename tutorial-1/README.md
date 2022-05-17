@@ -1,3 +1,4 @@
 - creating a `main` function
 - `!` stands for a rust macro
 - `main` is a function that is called when the program starts
+- use `println!()` to print to the console, where `!` is for the macro
