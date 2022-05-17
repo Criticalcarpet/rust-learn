@@ -1,4 +1,5 @@
 // File to delete all the .git directories inside tutorial files
+// Will probably change this to RUST in future
 
 const fs = require('fs')    
 
