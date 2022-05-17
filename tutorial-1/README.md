@@ -1,0 +1,3 @@
+- creating a `main` function
+- `!` stands for a rust macro
+- `main` is a function that is called when the program starts
